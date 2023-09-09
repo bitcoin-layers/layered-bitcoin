@@ -1,16 +1,12 @@
 # Layered Bitcoin
 
-> If something is valuable enough, monumental efforts will be made towards rectifying its flaws.
+> If something is valuable enough, enormous efforts will be made towards addressing its limitations.
 
 The exciting stuff in Bitcoin happens in layers.
 
 Because the base protocol is kept intentionally stable, it acts as bedrock for other developers to build upon.
 
-It's important to acknowledge that the Bitcoin protocol is more than just what's contained within [Bitcoin Core](https://github.com/bitcoin/bitcoin), and that code on its own is unable to efficiently solve for all that it could, and wouldn't change much at all if it weren't for an entire industry working very hard towards finding a use for Bitcoin in every little niche.
-
-In many ways, Bitcoin automates banking. It does this without recreating a system based on debt or trust. And as current systems are showing signs of failure, censorship, fragmentation, and hyperinflation, it is imperative that resources are put towards rebuilding the world's financial systems upon firmer foundations.
-
-For this, an entire ecosystem is needed. Wallets and layers, clients and indexes, software nodes and hardware nodes. All these are needed to fulfill the promise of Bitcoinization: A world in which the corrupt elites can no longer exploit and control through monetary manipulation.
+It's important to acknowledge that the Bitcoin protocol is more than just what's contained within [Bitcoin Core](https://github.com/bitcoin/bitcoin), which, on its own is unable to efficiently solve for all that it could, and wouldn't change much at all if it weren't for an entire industry working very hard towards finding a use for Bitcoin in every little niche.
 
 A Bitcoin layer can be defined as an open protocol that uses the Bitcoin timechain or the BTC currency, as denominated in either ₿itcoins or ṩatoshis, to extend the capabilities of the protocol below it.
 
@@ -24,6 +20,16 @@ The term timechain is used instead of blockchain or cryptocurrency, since these 
 
 Imitators did serve a purpose in many ways, in showing either what not to do, or what can be done, just not in that way. They can prove there's demand, and anything with merit will ultimately be built upon Bitcoin and only Bitcoin.
 
+## Philosophy
+
+Let's take a moment to appreciate why Bitcoin is valuable enough to go through all the effort to address it's limitations. Some of the techniques developed, such as clientside validation, can be incredibly complex. So, why go through all this trouble, why is it worth it? Why Bitcoin and not something else?
+
+In many ways, Bitcoin automates banking. It does this without rebuilding a system based on debt or trust. And as current systems are showing signs of failure, censorship, fragmentation, and hyperinflation, it is imperative that resources are put towards rebuilding the world's financial systems upon firmer foundations. In case those fail, a Plan B is needed. And in many places in the world, trust in financial institutions has already been thoroughly eroded through prolonged mismanagement and corruption, and the authorities were complicit. No "good guys" can come in and be trustworthy bankers. Efficient economies require efficient financial systems, and inefficiency results in misallocation of scarce resources. Bitcoin can have a huge impact in this regard, since it isn't issued by authorities, and is fundamentally peer-to-peer.
+
+For this, an entire ecosystem is needed. Wallets and layers, clients and indexes, software nodes and hardware nodes. All these are needed to fulfill the promise of Global Economic Bitcoinization: A world in which those in power can no longer exploit and control through monetary manipulation.
+
+Only Bitcoin is robust and neutral enough to do this. See Vitalik's excellent April 1st essay, [In Defense of Bitcoin Maximalism](https://vitalik.ca/general/2022/04/01/maximalist.html). Few remember, he originally co-founded the venerable publication, Bitcoin Magazine, where he wrote many early articles on Bitcoin. He also coined the term "Bitcoin maximalist", a moniker many a Bitcoiner has come to adopt as perfectly explaining their perspective. Indeed, a Layered Bitcoin ecosystem is also an argument for Bitcoin maximalism; for, if we have a reliable medium of exchange, why not build all functionality those find useful on other chains and solutions upon Bitcoin as a layer? While it won't be built in the same way, if it can take advantage of Bitcoin's network effect and integrate with Bitcoin's many other layers, a solution that's good enough could take shape and disrupt entire niche industries, such as what Ordinals did for NFTs.
+
 ## Axioms
 
 Axioms of a Bitcoiner, short and easy to remember
@@ -32,9 +38,27 @@ Axioms of a Bitcoiner, short and easy to remember
 2. Bitcoin is good for everything (just not always on its own)
 3. Bitcoin is for everyone (including people you don't like, doing things you don't care for)
 4. Bitcoin does not need you (it will survive if you do not)
-5. Bitcoin isn't perfect (and it doesn't need to be to replace all money)
+5. Bitcoin isn't perfect (and it doesn't need to be to be the best money)
 
 Layers help with point 3, because not everyone is going to want to learn about self-custody.
+
+Layers are good for Bitcoin. Bitcoin is good for layers. Layers help make Bitcoin work for everyone. Layers make Bitcoin work without you. Bitcoin may not be perfect, but layers can make it perfect for what money's needed for.
+
+## The Purposes of Layers
+
+Layers almost universally provide improvements in most or all of the following:
+
+1. Scale
+2. Cost
+3. Speed
+4. Privacy
+5. Utility
+
+This often can come with the following tradeoffs:
+
+1. Complexity
+2. Centralization
+3. Adoption
 
 ## Layers by Purpose
 
