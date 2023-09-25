@@ -57,8 +57,12 @@ Layers almost universally provide improvements in most or all of the following:
 This often can come with the following tradeoffs:
 
 1. Complexity
-2. Centralization
-3. Adoption
+2. Interactivity
+3. Security
+4. Centralization
+5. Adoption
+
+TODO: Add more details
 
 ## Layers by Purpose
 
