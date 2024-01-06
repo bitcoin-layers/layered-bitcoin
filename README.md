@@ -1,6 +1,6 @@
 # Layered Bitcoin
 
-> If something is valuable enough, enormous efforts will be made towards addressing its limitations.
+> If something is valuable enough, great efforts will be made towards addressing its limitations.
 
 The exciting stuff in Bitcoin happens in layers.
 
